@@ -1,7 +1,7 @@
 # App Ibuck https://play.google.com/store/apps/details?id=com.app.ibucks
 Nuyul Ibuck Spin
 
-Tutor Nuyul
+Tutor Nuyul lewat Termux :
 
 Cara pakai install termux ketik
 
@@ -9,7 +9,7 @@ pkg install php
 
 pkg install git
 
-cd git clone https://github.com/izzy404/ibuck/
+cd git clone https://github.com/aliichsangfr/ibuck.git
 
 cd ibuck
 
@@ -19,4 +19,4 @@ Isi USERNAME:
 
 JUMLAH:
 
-Source code by :Izzy404
+Source cod by :Izzy404
